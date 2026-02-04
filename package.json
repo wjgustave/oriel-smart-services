@@ -1,12 +1,12 @@
 {
   "name": "oriel-smart-services-infographic",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Interactive infographic for Oriel Smart Hospital Services",
   "private": true,
   "engines": {
-  "node": "22.x",
-  "npm": "10.x"
-},
+    "node": "22.x",
+    "npm": "10.x"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
